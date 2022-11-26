@@ -1,1 +1,1 @@
-test_git_branch
+updating main branch rules
