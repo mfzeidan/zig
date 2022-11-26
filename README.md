@@ -1,1 +1,1 @@
-"# zig"
+updating main branch rules
